@@ -10,10 +10,9 @@
 </table>
 
 ## 💫 About Me:
-· 🎓 NUST MISIS Student 
-· 🐍 Writing code in Python: from simple scripts to learning projects
-· 📚 Learning algorithms and data structures
-· 🗣️ Improving my English to read documentation and communicate with the community
+🎓 NUST MISIS Student  
+Deepening my Python skills, improving English, and developing in the EA direction.  
+This profile showcases my IT journey and learning projects.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
