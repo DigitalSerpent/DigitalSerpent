@@ -10,8 +10,10 @@
 </table>
 
 ## 💫 About Me:
-Hello! I'm a student currently focused on mastering Python and improving my English. Here, I will be sharing my journey into IT:<br><br>· 🐍 Writing code in Python: from simple scripts to learning projects<br>· 🔍 Actively seeking internships and interesting tasks to apply my knowledge<br>· 📚 Learning algorithms and data structures<br>· 🗣️ Improving my English to read documentation and communicate with the community
-
+· 🎓 NUST MISIS Student 
+· 🐍 Writing code in Python: from simple scripts to learning projects
+· 📚 Learning algorithms and data structures
+· 🗣️ Improving my English to read documentation and communicate with the community
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
