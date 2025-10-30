@@ -1,4 +1,13 @@
-# Yo
+<table>
+  <tr>
+    <td width="80%">
+      <h1>Yo</h1>
+    </td>
+    <td width="20%" align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtanQydXA0bzAzdW1zdWU0bGd6bjlxOTYzYmhpczc1dWMwb2F6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="100" height="100">
+    </td>
+  </tr>
+</table>
 
 ## 💫 About Me:
 Hello! I'm a student currently focused on mastering Python and improving my English. Here, I will be sharing my journey into IT:<br><br>· 🐍 Writing code in Python: from simple scripts to learning projects<br>· 🔍 Actively seeking internships and interesting tasks to apply my knowledge<br>· 📚 Learning algorithms and data structures<br>· 🗣️ Improving my English to read documentation and communicate with the community
@@ -11,5 +20,4 @@ Hello! I'm a student currently focused on mastering Python and improving my Engl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
