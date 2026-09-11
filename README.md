@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td width="70%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+DigitalSerpent;Yo+%E2%9C%A8;Welcome+to+my+profile" alt="Typing SVG" />
+      <h1>
+        <span style="color: #FF69B4;">Yo</span>
+      </h1>
     </td>
     <td width="30%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtanQydXA0bzAzdW1zdWU0bGd6bjlxOTYzYmhpczc1dWMwb2F6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="150" height="150">
@@ -17,11 +19,11 @@
 
 <div align="center">
 
-##  About Me
+## 💫 About Me
 
 </div>
 
- NUST MISIS Student  
+🎓 NUST MISIS Student  
 Deepening my Python skills, improving English, and developing in the EA direction.  
 This profile showcases my IT journey and learning projects.
 
@@ -29,7 +31,7 @@ This profile showcases my IT journey and learning projects.
 
 <div align="center">
 
-##  Tech Stack
+## 💻 Tech Stack
 
 **Languages:**
 [![Languages](https://skillicons.dev/icons?i=python,cs,java,js,html,css&theme=dark)](https://skillicons.dev)
