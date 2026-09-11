@@ -19,12 +19,15 @@ This profile showcases my IT journey and learning projects.
 [![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 ## 💻 Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,pycharm,windows,linux&theme=dark)](https://skillicons.dev)
+**Languages:**
+[![Languages](https://skillicons.dev/icons?i=python,cs,java,js,html,css&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms:**
+[![Tools](https://skillicons.dev/icons?i=nodejs,dotnet,mysql,vscode,github,docker,figma,bash,powershell,unity,git,pycharm,windows,linux&theme=dark)](https://skillicons.dev)
 
 <br/>
 
