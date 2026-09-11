@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="70%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=3000&pause=99999&color=FF69B4&center=true&vCenter=true&width=400&lines=Yo" alt="Yo" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=3000&pause=99999&color=FFB6C1&center=true&vCenter=true&width=400&lines=Yo" alt="Yo" />
     </td>
     <td width="30%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtanQydXA0bzAzdW1zdWU0bGd6bjlxOTYzYmhpczc1dWMwb2F6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="150" height="150">
@@ -13,11 +13,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3&width=100%"/>
 
 <div align="center">
 
-##  About Me
+## 💫 About Me
 
 </div>
 
@@ -25,11 +25,11 @@
 Deepening my Python skills, improving English, and developing in the EA direction.  
 This profile showcases my IT journey and learning projects.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=3&width=100%"/>
 
 <div align="center">
 
-##  Tech Stack
+## 💻 Tech Stack
 
 <br/>
 
@@ -45,16 +45,18 @@ This profile showcases my IT journey and learning projects.
 
 <br/>
 
-![English](https://img.shields.io/badge/English-B1-FF69B4?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-EA_Direction-FF69B4?style=for-the-badge&logo=gamepad&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning-FFB6C1?style=for-the-badge&logo=rocket&logoColor=white)
+![English](https://img.shields.io/badge/English-B1-FFB6C1?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-EA_Direction-FFB6C1?style=for-the-badge&logo=gamepad&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-FFC0CB?style=for-the-badge&logo=rocket&logoColor=white)
 
 <br/><br/>
 
-![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10)
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"> 
+![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10) 
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
