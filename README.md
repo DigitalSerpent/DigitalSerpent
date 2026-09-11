@@ -52,7 +52,6 @@ This profile showcases my IT journey and learning projects.
 <br/><br/>
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"> 
-![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10) 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40">
 
 <br/>
