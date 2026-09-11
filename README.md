@@ -29,3 +29,18 @@ This profile showcases my IT journey and learning projects.
 ---
 [![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 💻 Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,pycharm,windows,linux&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![English](https://img.shields.io/badge/English-B1-2CA5E0?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-EA_Direction-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)
+
+</div>
