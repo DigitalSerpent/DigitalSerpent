@@ -14,17 +14,6 @@
 Deepening my Python skills, improving English, and developing in the EA direction.  
 This profile showcases my IT journey and learning projects.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![English](https://img.shields.io/badge/English-B1-2CA5E0?style=for-the-badge&logo=googletranslate&logoColor=white)
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=DigitalSerpent&theme=omni&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DigitalSerpent&icon=3&color=10)](https://visitcount.itsvg.in)
